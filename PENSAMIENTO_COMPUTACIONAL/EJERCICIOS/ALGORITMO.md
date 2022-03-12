@@ -26,7 +26,7 @@
 * Agarrar la llave de cruz. 
 * Colocar la llave de cruz en alguna de las tuercas. 
 * Girar hacia el lado opuesto a las manecillas del reloj.
-*   
+* Apretar la tuerza hasta que apriete lo suficiente. 
 
 # DESARROLLA UN ALGORITMO QUE CALCULE LA EDAD DE UNA PERSONA CON BASE A LA OBTENCION DE SU FECHA DE NACIMIENTO.
 ## Inicio 
