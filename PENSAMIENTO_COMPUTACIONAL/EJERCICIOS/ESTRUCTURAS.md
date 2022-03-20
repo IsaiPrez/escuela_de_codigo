@@ -3,7 +3,7 @@
 
 1 Programa que pida un número y diga si es positivo o negativo
 * Inicio
-* Declarar(0)int
+* Declarar(Numero)int
 * Mostrar "Ingrese un número"
 * Asignar(Numero1)
 * SI(Numero1=Número)MOSTRAR(Verdadero)SINO(Falso)
