@@ -6,13 +6,41 @@
 * Declarar(Numero)int
 * Mostrar "Ingrese un número"
 * Asignar(Numero1)
-* SI(Numero1=Número)MOSTRAR(Verdadero)SINO(Falso)
+* SI(Numero1<0)ENTONCES MOSTRAR(Negativo)SINO SI(Numero1>0)ENTONCES mostrar(Positivo)SINO mostrar ("Es neutro o no es valido")
+* FIN
+
+![image](https://user-images.githubusercontent.com/101481084/160257208-03ee123a-6987-4003-8470-82ca6bd921fd.png)
+
+
+
 
 2 Programa que solicite se ingrese una letra y sólo permita introducir los caracteres s y n.
+* Inicio
+* Declarar(Letra)
+* Mostrar ("Seleccione una respuesta")
+* Asignar (Letra1)
+* SI(Letras == "S" OR letra == "N")ENTONCES mostrar ("Correcto")SINO Mostrar("Incorrecto")
+* FIN
+
+![image](https://user-images.githubusercontent.com/101481084/160257220-bd61f473-ec69-402a-ab70-790a588122e4.png)
+
 
 3 Un programa que pida una letra y detecte si es una vocal. 
+* Inicio
+* Declarar(Letra)
+* Mostrar ("Ingresa una letra")
+* Asignar(Letra1)
+* EN CASO DE(Letra)HAGA caso A: mostrar("Es vocal")caso e: mostrar("Es vocal")caso i: ("Es vocal")caso o: mostrar("Es vocal")caso u: mostrar("Es vocal")SINO mostrar ("No es vocal")
+* FIN
+
+![image](https://user-images.githubusercontent.com/101481084/160257406-22ae1379-efb8-493a-9ab4-1715bd666ede.png)
+
 
 4 Programa que pida 3 números y los muestre en pantalla de menor a mayor.  
+* Inicio
+* Declarar (Num1, Num2, Num3)
+* Mostrar ("Ingrese numero")
+* Asignar
 
 5 De un programa que pida un número del 1 al 12 y diga el nombre del mes correspondiente.
 
