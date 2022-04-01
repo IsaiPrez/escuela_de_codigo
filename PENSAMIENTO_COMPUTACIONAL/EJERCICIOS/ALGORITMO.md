@@ -27,6 +27,12 @@
 * Colocar la llave de cruz en alguna de las tuercas. 
 * Girar hacia el lado opuesto a las manecillas del reloj.
 * Apretar la tuerza hasta que apriete lo suficiente. 
+* Repetir lo mismo con las otras 3 tuercas restantes.
+* Girar la perilla suavemente en el gato hidráulico para bajar el auto despacio
+* Apretar cada tuerca de las 4 que tiene el rin del auto.
+* Revisar el neumático.
+* Guardar las herramientas.
+* FIN
 
 # DESARROLLA UN ALGORITMO QUE CALCULE LA EDAD DE UNA PERSONA CON BASE A LA OBTENCION DE SU FECHA DE NACIMIENTO.
 ## Inicio 
