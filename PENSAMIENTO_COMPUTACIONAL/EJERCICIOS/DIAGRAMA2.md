@@ -25,3 +25,6 @@
 
 
 5. Realizar un algoritmo y diagrama de flujo para un programa que solicite un número e indique si es par o impar.
+
+![image](https://user-images.githubusercontent.com/101481084/161362890-853ef973-317f-4798-bebe-e7380f9853ec.png)
+
