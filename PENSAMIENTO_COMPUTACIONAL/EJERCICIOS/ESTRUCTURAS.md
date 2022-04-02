@@ -23,7 +23,7 @@
 * SI(Letras == "S" OR letra == "N")ENTONCES mostrar ("Correcto")SINO Mostrar("Incorrecto")
 * FIN
 
-![image](https://user-images.githubusercontent.com/101481084/160257220-bd61f473-ec69-402a-ab70-790a588122e4.png)
+![image](https://user-images.githubusercontent.com/101481084/161401332-57324cfa-3b03-42d3-8e7b-f7475caa5cd6.png)
 
 
 3 Un programa que pida una letra y detecte si es una vocal. 
