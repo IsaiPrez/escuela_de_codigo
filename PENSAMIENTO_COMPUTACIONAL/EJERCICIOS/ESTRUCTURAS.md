@@ -9,7 +9,8 @@
 * SI(Numero1<0)ENTONCES MOSTRAR(Negativo)SINO SI(Numero1>0)ENTONCES mostrar(Positivo)SINO mostrar ("Es neutro o no es valido")
 * FIN
 
-![image](https://user-images.githubusercontent.com/101481084/160257208-03ee123a-6987-4003-8470-82ca6bd921fd.png)
+![image](https://user-images.githubusercontent.com/101481084/161401155-18504a23-2a71-44ea-ab88-0b6c203d7eae.png)
+
 
 
 
