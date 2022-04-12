@@ -2,6 +2,27 @@ Actividad 1. Programa, usando algoritmo de estructura selectiva, lo siguiente:
 Diseña un algoritmo representándolo en Diagrama de Flujo y Pseudocódigo para mostrar el mensaje APROBADO si la nota final de un estudiante es mayor o igual que 4,0,
 y el mensaje REPROBADO en caso contrario, considere además el siguiente requisito adicional que la nota debe cumplir: debe estar dentro del rango 1,0 a 7,0.
 
+Algoritmo Modulo3
+	
+	Definir Cal Como Real
+	Escribir "Ingrese una calificación."
+	Leer Cal
+	
+	Si Cal>=4.0 Y Cal<=7.0 Entonces
+		Escribir "Aprobado"
+	SiNo
+		escribir "Reprobado" 
+	Fin Si
+	
+	Si Cal<0 o Cal>8.0 Entonces
+		Escribir "Ingrese un dato valido, el rango de calificacion es de 0 a 7.0"
+	SiNo
+		escribir "Que tenga un lindo dia" 
+	Fin Si
+FinAlgoritmo
+
 
 Actividad 2. Programa, usando algoritmo de estructura repetitiva, lo siguiente:
 Diseña un algoritmo representándolo en Diagrama de Flujo y Pseudocódigo para obtener la edad promedio de un grupo de N alumnos.
+
+
