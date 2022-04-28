@@ -1,7 +1,7 @@
 Realizar el algoritmo y diagrama de flujo de un programa para obtener la suma de diez cantidades, iniciando en 1, mediante la utilización de un ciclo “Mientras”
 * Estructura While
 
-![image](https://user-images.githubusercontent.com/101481084/161372741-f2f4f3bf-1558-4794-9946-896c6cd3505d.png)
+![image](https://user-images.githubusercontent.com/101481084/165864456-071b01ff-054c-49f7-8bb1-4fc628c7aa6f.png)
 
 
 * Estructura FOR
