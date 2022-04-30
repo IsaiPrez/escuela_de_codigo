@@ -10,6 +10,9 @@ Realizar un algoritmo y diagrama de flujo para un programa que permita ingresar 
 
 Realizar algoritmo y diagrama de flujo de un programa que imprima las tablas de multiplicar del 1 al 10.
 
+![image](https://user-images.githubusercontent.com/101481084/166093369-bb686ca9-9911-48ee-9d90-18aed4b39861.png)
+
+
 
 
 
